@@ -1,0 +1,46 @@
+.my-padge {
+  border: 1rem solid goldenrod;
+  border-radius: 40px;
+}
+.btno {
+  background-color: goldenrod;
+  color: whitesmoke;
+  border-radius: 35px;
+  border: none;
+}
+.btno:hover {
+  background-color: green;
+}
+.name {
+  color: goldenrod;
+}
+.name:hover {
+  color: green;
+}
+.brandN {
+  font-weight: bolder;
+  font-style: italic;
+}
+.btnod {
+  background-color: red;
+  color: whitesmoke;
+  border-radius: 35px;
+  border: none;
+}
+.log {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+.brand-name {
+  color: goldenrod;
+  font-weight: bolder;
+  font-size: 33px;
+  font-style: italic;
+}
+.contact {
+  border: 1px solid #999;
+}
+.skills{
+  overflow: hidden;
+}
